@@ -21,6 +21,7 @@ How to reach me:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=zburns.zburns)
 
+Note, that most of my Repositories are PRIVATE due to active and ongoing paid projects.  I'm not against developing and releasing public code, it's just not my personal property at this time.
 
 <!--
 **zburns/zburns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
