@@ -21,7 +21,7 @@ How to reach me and other fun facts:
 - ⚡ Fun fact: I hold an FAA Private Pilot License
 - ⚡ Fun fact: I went to college for a degree in Chemistry in 1992 to eventually work for the FBI as a Forensic Analyst.....then I found the World Wide Web and the Internet....the rest is history!
 
-I'm always busy working on something related to my hobbies, but I'm willing to collaborate 👯 on almost anything Science or Technology related.  Contact me via Telegram if you want to chat.
+- 🌱 I'm always busy learning or working on something related to my hobbies, but I'm willing to collaborate 👯 on almost anything Science or Technology related.  Contact me via Telegram if you want to chat (you can get a QR code off my website for a link to my handle if you're interested).   Note that my GitHub grade is probably weak since I don't do a lot of public repos..🤔..but don't let that scare you.
 
 ![](https://github-readme-stats.vercel.app/api?username=zburns&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
