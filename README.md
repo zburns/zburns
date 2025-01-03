@@ -10,18 +10,23 @@ Anyway, I currently build and deliver mission-critical, end-to-end internal busi
 
 I hold a **Master's Degree in Computer Science** from [Bowling Green State University](http://www.bgsu.edu) with a specialization in Parallel and Distributed Computing, a **Bachelor's Degree in Computer Science** with a Minor in Chemistry, and have done Electrical Engineering Master's work at the [University of Toledo](http://www.utoledo.edu).
 
-- 🔭 I’m currently working on sophisticated business growth software using Delphi, .NET and Python.
+- 🔭 I’m currently working on sophisticated business growth software using Microsoft C# .NET, Delphi Object Pascal, a little Python and even Artificial Intelligence sprinkled in there somewhere.
 - ⚡ You can read more about my crazy life [here](http://www.zackburns.com).
 
-How to reach me:
+Note, that most of my Repositories are PRIVATE due to active and ongoing paid projects.  I'm not against developing and releasing public code, it's just not my personal property at this time.
+
+How to reach me and other fun facts:
 - 📫 Twitter: [zburns](https://twitter.com/zburns)
 - 📫 Linkedin: [Zachary Burns](https://www.linkedin.com/in/zachary-burns/)
+- ⚡ Fun fact: I hold an FAA Private Pilot License
+- ⚡ Fun fact: I went to college for a degree in Chemistry in 1992 to eventually work for the FBI as a Forensic Analyst.....then I found the World Wide Web and the Internet....the rest is history!
+
+I'm always busy working on something related to my hobbies, but I'm willing to collaborate 👯 on almost anything Science or Technology related.  Contact me via Telegram if you want to chat.
 
 ![](https://github-readme-stats.vercel.app/api?username=zburns&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=zburns.zburns)
 
-Note, that most of my Repositories are PRIVATE due to active and ongoing paid projects.  I'm not against developing and releasing public code, it's just not my personal property at this time.
 
 <!--
 **zburns/zburns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
