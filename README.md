@@ -20,6 +20,7 @@ How to reach me and other fun facts:
 - 📫 Linkedin: [Zachary Burns](https://www.linkedin.com/in/zachary-burns/)
 - ⚡ Fun fact: I hold an FAA Private Pilot License
 - ⚡ Fun fact: I went to college for a degree in Chemistry in 1992 to eventually work for the FBI as a Forensic Analyst.....then I found the World Wide Web and the Internet....the rest is history!
+- ⚡ Fun fact: Hold an FCC Amateur Radio (Extra All Priveledge Class) License.  My call sign is "N8ZAK".  More info about Ham Radio is [here](http://www.n8zak.com).
 
 - 🌱 I'm always busy learning or working on something related to my hobbies, but I'm willing to collaborate 👯 on almost anything Science or Technology related.  Contact me via Telegram if you want to chat (you can get a QR code off my website for a link to my handle if you're interested).   Note that my GitHub grade is probably weak since I don't do a lot of public repos..🤔..but don't let that scare you.
 
